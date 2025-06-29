@@ -4,7 +4,7 @@ body{
 align-items: center;
 justify-content: center;
 overflow-x: hidden;
-border: 2px solid red;
+/* border: 2px solid red; */
 
 }
 
@@ -16,7 +16,7 @@ nav{
     /* border: 2px solid red; */
     background: white;
     padding: 0px 100px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .logo {
   width: 50px;
@@ -62,10 +62,10 @@ height: 35px;
 width: 100px;
 
 }
-section{
+/* section{
     border: 2px solid red;
 
-}
+} */
 .buy button:hover{
     background-color:#CA4BE0  ;
     color: white;
